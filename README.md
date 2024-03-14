@@ -24,7 +24,7 @@ Alur Program
 3. User dapat mengisi atau mengubah data mahasiswa di panel input, kemudian mengklik tombol "Add" untuk menambah data baru atau mengubah data yang sudah ada.
 4. Tombol "Delete", akan muncul dialog konfirmasi sebelum data dihapus.
 5. Tombol "Cancel" berfungsi untuk membersihkan input.
-6. 
+   
 ![1 INPUT DATA](https://github.com/rdmrvl/LP5DPBO2024C2/assets/64513644/640d8469-dac7-4561-ab5a-5d612c8af0bd)
 ![2 BERHASIL INPUT](https://github.com/rdmrvl/LP5DPBO2024C2/assets/64513644/701bd3e4-25cf-4b3a-9765-1e8735e1e410)
 ![3 UPDATE](https://github.com/rdmrvl/LP5DPBO2024C2/assets/64513644/7915eb4b-f5f3-4bb3-8a31-559bad479867)
